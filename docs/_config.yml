@@ -23,7 +23,7 @@ title: Ohisama Time App
 description: >- # this means to ignore newlines until "baseurl:"
   お日さま時間アプリのサービスサイトです。.
 baseurl: "/doc" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://hayakawaakira.github.io/OhisamaTime-Service/" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
